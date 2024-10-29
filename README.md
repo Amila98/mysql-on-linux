@@ -1,6 +1,3 @@
-Here's a README description based on your MySQL setup on a Linux server project.
-
----
 
 # MySQL Setup on AWS EC2 Linux
 
