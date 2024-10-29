@@ -146,6 +146,3 @@ This guide outlines the steps to install and configure MySQL on an AWS EC2 insta
 3. **Analyze Query Execution**:
    - Use `EXPLAIN` to identify performance bottlenecks and create indexes as needed.
 
----
-
-This README provides a structured guide for setting up MySQL on an AWS EC2 Linux instance, configuring users and permissions, importing data, running queries, and optimizing database performance. Let me know if you'd like more customization on any section!
